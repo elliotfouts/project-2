@@ -44,7 +44,6 @@ On the Nutrition page, enter any food in the search bar to see the nutritional i
 - Express-mysql-session
 - Express-session
 - Bcrypt
-- Eslint
 - Path
 
 ## Source
